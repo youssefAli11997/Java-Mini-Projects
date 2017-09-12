@@ -1,0 +1,8 @@
+Onion Rings	$2.0
+French Fries	$1.4
+Hamburger	$1.2
+Steak	$3.4
+Chicken	$10.1
+Shrimp	$102.0
+Ice Cream	$1.45
+Soda	$1.2
